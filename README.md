@@ -22,6 +22,5 @@ copy image1 to the screen and use getRectSubPix to input the next image.
 
 
 
-reference
+Reference
 https://www.pyimagesearch.com/2016/01/11/opencv-panorama-stitching/
-https://towardsdatascience.com/image-panorama-stitching-with-opencv-2402bde6b46c
